@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+sgp4
+skyfield
+astropy
+requests
+pytest

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.vscode/
+scratch_*.py
+.ipynb_checkpoints/
+# Downloaded ephemerides and TLE caches (re-fetched, not committed)
+*.bsp
+data/cache/
