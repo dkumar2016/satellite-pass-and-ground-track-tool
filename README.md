@@ -4,7 +4,7 @@
 
 Satellite pass prediction, ground tracks and eclipse detection from real TLEs: when a satellite is visible from a ground station, where it is over the Earth, and when it is in Earth's shadow. Results are validated against Skyfield.
 
-> **Status: in progress.** Week 4 of a 12-week flight dynamics and operations plan (Nov 23–27, 2026). The structure, input data and setup checks are in place; the analysis code and results arrive during the week. Nothing below is a result yet.
+> **Status: in progress.**  The structure, input data and setup checks are in place; the analysis code and results arrive during the week. Nothing below is a result yet.
 
 ## What it will do
 
